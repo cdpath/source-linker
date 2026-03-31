@@ -4,6 +4,7 @@
 	"version": "1.0.0",
 	"minAppVersion": "1.1.13",
 	"description": "Convert external Markdown links in the active note into internal links to source notes.",
-	"author": "jingyi",
+	"author": "cdpath",
+	"authorUrl": "https://github.com/cdpath",
 	"isDesktopOnly": false
 }
